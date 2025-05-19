@@ -11,6 +11,7 @@ https://drive.google.com/file/d/1Vc-qAjrzDFd5yuDjqV9OVLgJrJbSfWov/view?usp=shari
 Yolov5 model with trained result can be accessed:<br/>
 https://drive.google.com/file/d/1hd0JQ5rytxk1TeWx6QxDSulGMWfDrE9k/view?usp=sharing
 
+## Running this notebook sometimes may require you to move between directories to access the functions. 
 ## Software requirement
 1. Python 3.8+
 2. PyTorch 1.10+
